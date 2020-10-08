@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-sidenav',
@@ -9,7 +9,7 @@ export class SidenavComponent implements OnInit {
   
   actions = [
     {
-      icon: 'file-text',
+      icon: '<i class="fas fa-camera"></i>',
       label: 'test1',
       query: { a: 1 }
     },
