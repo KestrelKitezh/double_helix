@@ -7,7 +7,6 @@ import { AppRoutingModule } from './modules/app-routing.module';
 
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { ToolbarComponent } from './com/toolbar/toolbar.component';
 import { FooterComponent } from './com/footer/footer.component';
 import { SideNavComponent } from './com/side-nav/side-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
@@ -20,7 +19,6 @@ import { MatListModule } from '@angular/material/list';
 @NgModule({
   declarations: [
     AppComponent,
-    ToolbarComponent,
     FooterComponent,
     SideNavComponent,
   ],
