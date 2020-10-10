@@ -31,13 +31,13 @@
                 <!-- Selected OILS -->
                 <div class="selected-oils-wrap">
                     <button mat-raised-button id="oil-1" class="img-selected-oil-btn" (click)="unselectFirstOil()">
-                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                        <img [src]="imgSelectedImgOne" class="img-selected-oil">
                     </button>
-                    <button mat-raised-button id="oil-2" class="img-selected-oil-btn">
-                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                    <button mat-raised-button id="oil-2" class="img-selected-oil-btn" (click)="unselectSecondOil()">
+                        <img [src]="imgSelectedImgTwo" class="img-selected-oil">
                     </button>
-                    <button mat-raised-button id="oil-3" class="img-selected-oil-btn">
-                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                    <button mat-raised-button id="oil-3" class="img-selected-oil-btn" (click)="unselectThirdOil()">
+                        <img [src]="imgSelectedImgThree"  class="img-selected-oil">
                      </button>
                 </div>
                 <!-- Add oil -->
