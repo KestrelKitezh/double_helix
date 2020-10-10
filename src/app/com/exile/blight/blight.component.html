@@ -1,0 +1,88 @@
+<section>
+    <mat-grid-list cols="3" class="container">
+        <!-- GRID 1 -->
+        <mat-grid-tile class="grid">
+            <mat-card class="annoint-choice-container">
+                <mat-button-toggle-group name="annoint-type">
+                    <mat-button-toggle value="ring" (click)="ringToggle()">
+                        <img src="../../../../assets/png/exile/blight/Unset_Ring_inventory_icon.png" class="img-toggle">
+                        Ring
+                    </mat-button-toggle>
+                    <mat-button-toggle value="amulet" (click)="amuletToggle()">
+                        <img src="../../../../assets/png/exile/blight/Onyx_Amulet_inventory_icon.png"
+                            class="img-toggle">
+                        Amulet
+                    </mat-button-toggle>
+                    <mat-button-toggle value="map" (click)="mapToggle()">
+                        <img src="../../../../assets/png/exile/blight/Overgrown_Ruin_Map_(Heist)_inventory_icon.png"
+                            class="img-toggle">
+                        Map
+                    </mat-button-toggle>
+                </mat-button-toggle-group>
+            </mat-card>
+        </mat-grid-tile>
+        <!-- GRID 2 -->
+        <mat-grid-tile class="grid">
+            <mat-card class="selected-oils" color="warn">
+                <!-- Selected Type -->
+                <button mat-raised-button class="img-selected-type-btn">
+                    <img [src]="imgTypeSelected" class="img-selected-type">
+                </button>
+                <!-- Selected OILS -->
+                <div class="selected-oils-wrap">
+                    <button mat-raised-button id="oil-1" class="img-selected-oil-btn" (click)="unselectFirstOil()">
+                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                    </button>
+                    <button mat-raised-button id="oil-2" class="img-selected-oil-btn">
+                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                    </button>
+                    <button mat-raised-button id="oil-3" class="img-selected-oil-btn">
+                        <img src="../../../../assets/png/exile/blight/unselected.png" class="img-selected-oil">
+                     </button>
+                </div>
+                <!-- Add oil -->
+                <div class="oils-wrap">
+                    <button mat-raised-button id="1" class="select-oil" (click)="clearOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Clear_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="2" class="select-oil" (click)="sepiaOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Sepia_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="3" class="select-oil" (click)="amberOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Amber_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="4" class="select-oil" (click)="verdantOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Verdant_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="5" class="select-oil" (click)="tealOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Teal_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="6" class="select-oil" (click)="azureOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Azure_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="7" class="select-oil" (click)="indigoOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Indigo_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="8" class="select-oil" (click)="violetOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Violet_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="9" class="select-oil" (click)="crimsonOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Crimson_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="10" class="select-oil" (click)="blackOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Black_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="11" class="select-oil" (click)="opalescentOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Opalescent_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="12" class="select-oil" (click)="silverOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Silver_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                    <button mat-raised-button id="13" class="select-oil" (click)="goldenOilClick()">
+                        <img src="../../../../assets/png/exile/blight/Golden_Oil_inventory_icon.png" class="img-select-oil">
+                    </button>
+                </div>
+            </mat-card>
+        </mat-grid-tile>
+    </mat-grid-list>
+</section>

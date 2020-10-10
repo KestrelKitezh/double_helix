@@ -15,12 +15,16 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
+import { BlightComponent } from './com/exile/blight/blight.component';
+import { HomeComponent } from './com/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     FooterComponent,
     SideNavComponent,
+    BlightComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,

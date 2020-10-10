@@ -1,12 +1,26 @@
 <mat-card class="footer-container">
-    <mat-icon class="footer-icons">menu</mat-icon>
-    <mat-icon class="footer-icons">star</mat-icon>
-    <mat-icon class="footer-icons">menu</mat-icon>
-    <mat-icon class="footer-icons">star</mat-icon>
-    <mat-icon class="footer-icons">star</mat-icon>
+    <i class="fab fa-twitter footer-icons"></i>
+    <i class="fab fa-discord footer-icons"></i>
+    <i class="fab fa-facebook footer-icons"></i>
+    <i class="fab fa-github footer-icons"></i>
+    <i class="fab fa-teamspeak footer-icons"></i>
+    <i class="fab fa-twitch footer-icons"></i>
+    <span class="footer-text">
+        Made with:
+    </span>
+    <mat-button mat-fab-button #tooltip="matTooltip" matTooltip="Angular" matTooltipPosition="above">
+        <a href="http://www.angular.io" target="_blank">
+            <i class="fab fa-angular footer-icons"></i>
+        </a>
+    </mat-button>
+    <mat-button mat-fab-button #tooltip="matTooltip" matTooltip="Font Awesome" matTooltipPosition="above">
+        <a href="https://fontawesome.com/" target="_blank">
+            <i class="fab fa-font-awesome footer-icons"></i>
+        </a>
+    </mat-button>
 </mat-card>
 <mat-card class="footer-container">
-            <span class="footer-text">
-                Made by Kestrel @ {{ year }}
-            </span>
+    <span class="footer-text">
+        Styx.ltd © {{ year }}
+    </span>
 </mat-card>
