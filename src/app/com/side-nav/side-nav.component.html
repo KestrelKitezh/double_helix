@@ -12,20 +12,20 @@
 <mat-sidenav-container>
   <mat-sidenav #appDrawer mode="rail" opened="false">
     <mat-nav-list class="dashboard">
-      <a mat-list-item routerLink="/blight" routerLinkActive="active">
+      <a mat-list-item routerLink="/exile/blight" routerLinkActive="active">
         <mat-icon mat-list-icon>account_circle</mat-icon>
         <p matLine>Name</p>
       </a>
 
       <mat-divider></mat-divider>
 
-      <a mat-list-item routerLink="/blight" routerLinkActive="active">
+      <a mat-list-item routerLink="/exile/blight" routerLinkActive="active">
         <mat-icon mat-list-icon>inbox</mat-icon>
-        <p matLine>Inbox</p>
+        <p matLine>Blight</p>
       </a>
-      <a mat-list-item>
+      <a mat-list-item routerLink="/exile/skills" routerLinkActive="active">
         <mat-icon mat-list-icon>star</mat-icon>
-        <p matLine>Starred</p>
+        <p matLine>Skill Gems</p>
       </a>
       <a mat-list-item>
         <mat-icon mat-list-icon>drafts</mat-icon>
@@ -36,17 +36,6 @@
   <mat-sidenav-content>
     <div class="container">
       <router-outlet></router-outlet>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
       <br>
       <br>
       <br>

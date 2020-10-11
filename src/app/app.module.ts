@@ -17,6 +17,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { BlightComponent } from './com/exile/blight/blight.component';
 import { HomeComponent } from './com/home/home.component';
+import { SkillsComponent } from './com/exile/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { HomeComponent } from './com/home/home.component';
     SideNavComponent,
     BlightComponent,
     HomeComponent,
+    SkillsComponent,
   ],
   imports: [
     BrowserModule,
