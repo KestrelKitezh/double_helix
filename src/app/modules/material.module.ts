@@ -15,7 +15,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatTooltipModule } from '@angular/material/tooltip';
 import { DrawerRailModule } from 'angular-material-rail-drawer';
 import { MatGridListModule } from '@angular/material/grid-list';
-
+import { MatExpansionModule } from '@angular/material/expansion';
 
 @NgModule({
   declarations: [],
@@ -35,6 +35,7 @@ import { MatGridListModule } from '@angular/material/grid-list';
     MatTooltipModule,
     DrawerRailModule,
     MatGridListModule,
+    MatExpansionModule,
   ],
   exports: [
     MatFormFieldModule,
@@ -52,6 +53,7 @@ import { MatGridListModule } from '@angular/material/grid-list';
     MatTooltipModule,
     DrawerRailModule,
     MatGridListModule,
+    MatExpansionModule,
   ]
 })
 export class MaterialModule { }
