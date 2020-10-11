@@ -1,5 +1,6 @@
 <section>
     <mat-card class="container">
+        <h4>Click arrow for showing alternate quality for the gem.</h4>
         <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
             <!--  -->
             <!-- Column 1: level -->
@@ -22,26 +23,42 @@
             <!--  -->
             <!-- Column 4: default quality -->
             <ng-container matColumnDef="default">
-                <th mat-header-cell *matHeaderCellDef>Quality</th>
-                <td mat-cell *matCellDef="let skills">{{skills.default}}</td>
+                <th mat-header-cell *matHeaderCellDef></th>
+                <td mat-cell *matCellDef="let skills"></td>
             </ng-container>
             <!--  -->
             <!-- Column 5: alternate 1 -->
             <ng-container matColumnDef="alt1">
-                <th mat-header-cell *matHeaderCellDef>Alternate</th>
-                <td mat-cell *matCellDef="let skills">{{skills.alt1}}</td>
+                <th mat-header-cell *matHeaderCellDef></th>
+                <td mat-cell *matCellDef="let skills"></td>
             </ng-container>
             <!--  -->
             <!-- Column 6: alternate 2 -->
             <ng-container matColumnDef="alt2">
-                <th mat-header-cell *matHeaderCellDef>Alternate 2</th>
-                <td mat-cell *matCellDef="let skills">{{skills.alt2}}</td>
+                <th mat-header-cell *matHeaderCellDef></th>
+                <td mat-cell *matCellDef="let skills"></td>
             </ng-container>
+            <!--  -->
             <!-- Column 7: alternate 3-->
             <ng-container matColumnDef="alt3">
-                <th mat-header-cell *matHeaderCellDef>Alternate 3</th>
-                <td mat-cell *matCellDef="let skills">{{skills.alt3}}</td>
-            </ng-container>
+                <th mat-header-cell *matHeaderCellDef>Quality</th>
+                <td mat-cell *matCellDef="let skills">
+                    <mat-expansion-panel>
+                        <mat-expansion-panel-header>
+                            {{skills.default}}
+                        </mat-expansion-panel-header>
+                        <mat-list role="list">
+                            <mat-list-item role="listitem">{{skills.alt1}}</mat-list-item>
+                        </mat-list>
+                        <mat-list role="list">
+                            <mat-list-item role="listitem">{{skills.alt2}}</mat-list-item>
+                        </mat-list>
+                        <mat-list role="list">
+                            <mat-list-item role="listitem">{{skills.alt3}}</mat-list-item>
+                        </mat-list>
+                    </mat-expansion-panel>
+                </td>
+            </ng-container>-->
 
             <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
             <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
