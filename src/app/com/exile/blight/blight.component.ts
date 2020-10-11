@@ -1,5 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
+export interface Oils{
+  name: string;
+  src: string;
+}
+
 @Component({
   selector: 'app-blight',
   templateUrl: './blight.component.html',
@@ -10,7 +15,22 @@ export class BlightComponent implements OnInit {
   // --------------------------------------------------------------------------
   //
   selected: string[] = [];
-  oils: string[] = [];
+  oil: Oils[] = [
+    {name: "clear", src: "../../../../assets/png/exile/blight/Clear_Oil_inventory_icon.png"},
+    {name: "sepia", src: "../../../../assets/png/exile/blight/Sepia_Oil_inventory_icon.png"},
+    {name: "amber", src: "../../../../assets/png/exile/blight/Amber_Oil_inventory_icon.png"},
+    {name: "verdant", src: "../../../../assets/png/exile/blight/Verdant_Oil_inventory_icon.png"},
+    {name: "teal", src: "../../../../assets/png/exile/blight/Teal_Oil_inventory_icon.png"},
+    {name: "azure", src: "../../../../assets/png/exile/blight/Azure_Oil_inventory_icon.png"},
+    {name: "indigo", src: "../../../../assets/png/exile/blight/Indigo_Oil_inventory_icon.png"},
+    {name: "violet", src: "../../../../assets/png/exile/blight/Violet_Oil_inventory_icon.png"},
+    {name: "crimson", src: "../../../../assets/png/exile/blight/Crimson_Oil_inventory_icon.png"},
+    {name: "black", src: "../../../../assets/png/exile/blight/Black_Oil_inventory_icon.png"},
+    {name: "opalescent", src: "../../../../assets/png/exile/blight/Opalescent_Oil_inventory_icon.png"},
+    {name: "silver", src: "../../../../assets/png/exile/blight/Silver_Oil_inventory_icon.png"},
+    {name: "golden", src: "../../../../assets/png/exile/blight/Golden_Oil_inventory_icon.png"},
+    {name: "undefined", src: "../../../../assets/png/exile/blight/unselected.png"},
+  ];
   maxOil = 0;
   imgTypeSelected: string = "../../../../assets/png/exile/blight/unselected.png";
   imgSelectedImgOne: string = "../../../../assets/png/exile/blight/unselected.png";
@@ -53,18 +73,27 @@ export class BlightComponent implements OnInit {
     console.log("Removed " + this.selected[0]);
     this.selected.splice(0, 1);
     console.log(this.selected);
+
+    this.pushImageSource();
+    this.checkCombination();
   }
 
   unselectSecondOil() {
     console.log("Removed " + this.selected[1]);
     this.selected.splice(1, 1);
     console.log(this.selected);
+
+    this.pushImageSource();
+    this.checkCombination();
   }
 
   unselectThirdOil() {
     console.log("Removed " + this.selected[2]);
     this.selected.splice(2, 1);
     console.log(this.selected);
+    
+    this.pushImageSource();
+    this.checkCombination();
   }
 
   // Oil selects
@@ -73,7 +102,7 @@ export class BlightComponent implements OnInit {
   clearOilClick() {
     if (this.selected.length < this.maxOil) {
       this.selected.push("clear");
-      console.log(this.selected);
+      // console.log(this.selected);
 
       this.pushImageSource();
       this.checkCombination();
@@ -85,6 +114,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("sepia");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -94,6 +124,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("amber");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -102,6 +133,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("verdant");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -110,6 +142,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("teal");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -118,6 +151,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("azure");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -126,6 +160,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("indigo");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -135,6 +170,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("violet");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -144,6 +180,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("crimson");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -153,6 +190,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("black");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -162,6 +200,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("opalescent");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -171,6 +210,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("silver");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -180,6 +220,7 @@ export class BlightComponent implements OnInit {
       this.selected.push("golden");
       console.log(this.selected);
 
+      this.pushImageSource();
       this.checkCombination();
     }
   }
@@ -193,11 +234,21 @@ export class BlightComponent implements OnInit {
   // --------------------------------------------------------------------------
   //
   pushImageSource() {
-    let x,y,z = "";
+    let x = this.selected[0];
+    let y = this.selected[1];
+    let z = this.selected[2];
     
-
-    this.imgSelectedImgOne = "";
-    this.selected;
+    for(var _i=0; _i < this.oil.length; _i++) {
+      if (x == this.oil[_i].name) {
+        this.imgSelectedImgOne = this.oil[_i].src
+      }
+      if (y == this.oil[_i].name) {
+        this.imgSelectedImgTwo = this.oil[_i].src
+      }
+      if (z == this.oil[_i].name) {
+        this.imgSelectedImgThree = this.oil[_i].src
+      }
+    }
   }
 }
 

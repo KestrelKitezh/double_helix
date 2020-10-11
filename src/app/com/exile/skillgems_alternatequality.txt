@@ -1,0 +1,901 @@
+Ancestral Cry 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Buff grants 20% increased Armour
+Ancestral Protector 	Default 	20% increased Totem Damage
+Alternate Quality 1 	40% increased Totem Placement speed
+Alternate Quality 2 	40% increased Activation range
+Alternate Quality 3 	20% increased Buff Effect
+Ancestral Warchief 	Default 	20% increased Totem Damage
+Alternate Quality 1 	40% increased Totem Placement speed
+Alternate Quality 2 	40% increased Activation range
+Alternate Quality 3 	40% increased Damage with Ailments
+Anger 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies deal 20% increased Burning Damage
+Alternate Quality 2 	You and nearby allies gain 5% increased Movement Speed
+Animate Guardian 	Default 	Minions have 40% increased Movement Speed
+Alternate Quality 1 	Minions have 60% increased Area of Effect
+Alternate Quality 2 	40% increased Minion Maximum Life
+Animate Weapon 	Default 	Minions have 20% increased Movement Speed
+Alternate Quality 1 	Minions have 10% chance to Intimidate Enemies for 4 seconds on Hit
+Alternate Quality 2 	20% chance to create an additional Animate Weapon copy
+Alternate Quality 3 	Minions deal 0 to 100 Added Lightning Damage
+Arc 	Default 	10% chance to Shock enemies
+Alternate Quality 1 	20% increased Chaining range
+Alternate Quality 2 	10% increased Damage for each time this Skill has Chained
+Alternate Quality 3 	20% reduced Enemy Stun Threshold
+Arcane Cloak 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	5% of Damage taken gained as Mana over 4 seconds when Hit
+Alternate Quality 2 	10% increased Buff Effect
+Arcanist Brand 	Default 	10% increased Activation frequency
+Alternate Quality 1 	Supported Skills have 10% increased Area of Effect
+Alternate Quality 2 	Supported Skills have 20% increased Projectile Speed
+Alternate Quality 3 	Supported Skills have 20% increased Chaining range
+Arctic Armour 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	20% chance to Freeze Enemies for 350 ms when Hit
+Alternate Quality 2 	1% less Physical Damage taken from Hits
+1% less Fire Damage taken from Hits
+Arctic Armour 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	20% chance to Freeze Enemies for 350 ms when Hit
+Alternate Quality 2 	1% less Physical Damage taken from Hits
+1% less Fire Damage taken from Hits
+Armageddon Brand 	Default 	10% increased Cast Speed
+Alternate Quality 1 	5% chance to deal Double Damage
+Alternate Quality 2 	20% chance for Brands to Attach to a new Enemy each time they Activate
+Artillery Ballista 	Default 	20% increased Fire Damage
+Alternate Quality 1 	100% increased Burning Damage
+Alternate Quality 2 	Fires an additional Arrow
+Assassin's Mark 	Default 	Cursed Enemies have a 5% chance to grant a Power Charge when Hit
+Alternate Quality 1 	Cursed enemies take 4% increased Damage
+Alternate Quality 2 	Hits against Cursed Enemies have +0.2% to Critical Strike Chance
+Ball Lightning 	Default 	20% increased Lightning Damage
+Alternate Quality 1 	10% increased Cast Speed
+Alternate Quality 2 	Projectiles have 10% chance to be Supercharged
+Bane 	Default 	Applied Curses have 10% increased Effect
+10% increased Effect of Supported Curses
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	Enemies have 10% chance to Explode on Death, dealing a quarter of their maximum Life as Chaos Damage
+Barrage 	Default 	10% increased Projectile Damage
+Alternate Quality 1 	20% chance to Knock Enemies Back on hit
+Alternate Quality 2 	10% increased Attack Speed
+Alternate Quality 3 	Inflict non-Damaging Ailments as though dealing 100% more Damage
+Bear Trap 	Default 	20% increased Physical Damage
+Alternate Quality 1 	40% increased Skill Effect Duration
+Alternate Quality 2 	10% increased Cooldown Recovery Rate
+Alternate Quality 3 	20% chance to Impale Enemies on Hit
+Berserk 	Default 	20% increased Attack Damage
+Alternate Quality 1 	10% increased Cooldown Recovery Rate
+Alternate Quality 2 	Buff grants 20% more Spell Damage
+Blade Blast 	Default 	10% increased Area of Effect
+Alternate Quality 1 	+10% to Chaos Damage over Time Multiplier
+Alternate Quality 2 	10% chance to Impale on Spell Hit
+Alternate Quality 3 	10% increased Cast Speed
+Blade Flurry 	Default 	10% increased Attack Speed
+Alternate Quality 1 	Final Flurry has 20% increased Area of Effect
+Alternate Quality 2 	40% increased Elemental Damage while Channelling
+Blade Vortex 	Default 	10% increased Area of Effect
+Alternate Quality 1 	0.4% of Damage Leeched as Life
+Alternate Quality 2 	20% chance to create an additional Blade
+Alternate Quality 3 	60% increased Damage while you have 5 or fewer Blades
+Bladefall 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% chance to Knock Enemies Back on hit
+Alternate Quality 2 	40% increased distance between Volleys
+Bladestorm 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	Sand Bladestorms move with 20% increased speed
+Alternate Quality 2 	Blood Bladestorm deals 40% increased Damage with Ailments
+Alternate Quality 3 	40% chance to create the wrong Bladestorm
+Blast Rain 	Default 	10% increased Area of Effect
+Alternate Quality 1 	5% chance to Cover Enemies in Ash on Hit
+Alternate Quality 2 	40% increased Damage to distant Enemies
+Alternate Quality 3 	Arrows fall within a 60% increased Area of Effect
+Blazing Salvo 	Default 	10% increased Area of Effect
+Alternate Quality 1 	40% increased Projectile Speed
+Alternate Quality 2 	Gain 5% of Fire Damage as Extra Chaos Damage
+Blight 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Chaos Damage
+Alternate Quality 2 	60% increased Secondary Duration
+Blink Arrow 	Default 	30% increased Arrow Speed
+Alternate Quality 1 	Minions have 20% increased Duration
+Alternate Quality 2 	60% increased Minion Maximum Life
+Alternate Quality 3 	+1 Cooldown Use
+Blood Rage 	Default 	5% increased Attack Speed
+Alternate Quality 1 	Buff grants 2% chance to gain a Frenzy Charge when you Hit a Unique Enemy
+Alternate Quality 2 	Buff grants 0.4% of Elemental Attack Damage leeched as Life
+Blood and Sand 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	20% increased Projectile Attack Damage while in Blood Stance
+20% increased Projectile Speed while in Sand Stance
+Alternate Quality 2 	Spells deal 20% increased Area Damage while in Blood Stance
+Spells have 10% increased Area of Effect while in Sand Stance
+Bodyswap 	Default 	10% increased Cast Speed
+Alternate Quality 1 	100% increased Burning Damage
+Alternate Quality 2 	10% increased Area of Effect
+Alternate Quality 3 	40% increased Damage if not Consuming a Corpse
+Bone Offering 	Default 	Grants Minions 10% increased Cast Speed
+Alternate Quality 1 	40% less Skill Effect Duration
+Minions recover 100 Life when they Block
+Alternate Quality 2 	Grants Minions +2% Chance to Block Attack Damage
+Grants Minions +2% Chance to Block Spell Damage
+Brand Recall 	Default 	Brands gain 20% increased Attachment Range
+Alternate Quality 1 	20% increased Cooldown Recovery Rate
+Burning Arrow 	Default 	+10% to Fire Damage over Time Multiplier
+Alternate Quality 1 	60% increased Critical Strike Chance
+Alternate Quality 2 	Projectiles Pierce 2 additional Targets
+Caustic Arrow 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% chance to inflict Withered on Hit
+Alternate Quality 2 	20% of Physical Damage Converted to Chaos Damage
+Chain Hook 	Default 	10% increased Area of Effect
+Alternate Quality 1 	+4 to radius
+Alternate Quality 2 	20% increased Range
+Charged Dash 	Default 	10% increased Attack Speed
+Alternate Quality 1 	10% more Movement Speed
+Alternate Quality 2 	20% increased travel distance
+Clarity 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 10% increased Mana Recovery from Flasks
+Alternate Quality 2 	You and nearby Allies have 20% increased Damage while on Full Mana
+Cleave 	Default 	10% increased Attack Speed
+Alternate Quality 1 	+20 Life gained for each Enemy hit by your Attacks
+Alternate Quality 2 	40% increased Area of Effect while not Dual Wielding
+Alternate Quality 3 	100% chance to Destroy Corpses on Kill
+Cobra Lash 	Default 	30% increased Critical Strike Chance
+Alternate Quality 1 	20% increased Chaining range
+Alternate Quality 2 	Projectiles deal 15% increased Damage for each remaining Chain
+Cold Snap 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Effect of Chill
+Alternate Quality 2 	40% increased Damage with Hits and Ailments
+Conductivity 	Default 	Shocks on Cursed enemies have 20% increased Duration
+Alternate Quality 1 	Curses inflicted by this Skill have +5 to maximum Doom
+Alternate Quality 2 	Hits against Cursed Enemies have +20% chance to Shock
+Consecrated Path 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased Attack Speed
+Alternate Quality 2 	10% increased teleport range
+Alternate Quality 3 	40% increased Consecrated Ground Area
+Contagion 	Default 	10% increased Area of Effect
+Alternate Quality 1 	60% increased Chaos Damage
+Alternate Quality 2 	60% chance to Spread when affected Enemy is Hit
+Conversion Trap 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	Converted Enemies have 20% chance to Taunt on Hit
+Alternate Quality 2 	Converted Enemies deal 400% increased Damage
+Convocation 	Default 	20% increased Skill Effect Duration
+20% increased Cooldown Recovery Rate
+Alternate Quality 1 	Buff grants 40% increased Movement Speed
+Alternate Quality 2 	Unnerve nearby Enemies for 4.0 seconds
+40% reduced Cooldown Recovery Rate
+Crackling Lance 	Default 	10% chance to Shock enemies
+Alternate Quality 1 	20% of Lightning Damage Converted to Chaos Damage
+Alternate Quality 2 	Lose Intensity 20% slower while moving
+Alternate Quality 3 	10% increased Cast Speed
+Creeping Frost 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	Fires an additional Projectile
+Alternate Quality 3 	Chilling Area has 40% increased Movement Speed
+Cremation 	Default 	20% increased Fire Damage
+Alternate Quality 1 	100% increased Burning Damage
+Alternate Quality 2 	Fires Projectiles 5% faster
+Alternate Quality 3 	40% chance to Explode a nearby Corpse when Firing Projectiles
+Cyclone 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% chance to Knock Enemies Back on hit
+Alternate Quality 2 	5% more Movement Speed
+Alternate Quality 3 	20% Chance to Avoid Interruption from Stuns While Using this Skill
+Dark Pact 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Sacrifices 1% of Skeleton's Life to deal that much Chaos Damage
+Alternate Quality 2 	Minions recover 2% of Life on Hit
+Dash 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	20% increased travel distance
+Alternate Quality 2 	Grants Phasing for 2.0 seconds
+Decoy Totem 	Default 	20% increased totem life
+Alternate Quality 1 	40% increased Totem Placement speed
+Alternate Quality 2 	Totems Regenerate 20% of Life per second
+Alternate Quality 3 	Totems Explode on Death, dealing 40% of their Life as Physical Damage
+Desecrate 	Default 	20% increased Cast Speed
+Alternate Quality 1 	200% increased Chaos Damage
+Alternate Quality 2 	60% chance to spawn an additional Corpse
+Alternate Quality 3 	Each Corpse spawned has 2% chance to be a Forgotten Corpse
+Despair 	Default 	Cursed enemies take 10% increased Damage from Damage Over Time effects
+Alternate Quality 1 	10% increased Effect of Curse
+Alternate Quality 2 	Spell Hits have 10% chance to Hinder Cursed Enemies with 30% reduced Movement Speed for 4 seconds
+Determination 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 20% chance to Avoid being Stunned
+Alternate Quality 2 	You and nearby Allies gain 10% of Evasion Rating as Extra Armour
+Detonate Dead 	Default 	10% increased Cast Speed
+Alternate Quality 1 	60% of Fire Damage Converted to Chaos Damage
+Alternate Quality 2 	Explosion deals 80% increased Damage if the Corpse is Ignited
+Detonate Mines 	Default 	Mines have 20% increased Detonation Speed
+Alternate Quality 1 	Recover 0.2% of Life for each Mine Detonated
+Devouring Totem 	Default 	20% increased totem life
+Alternate Quality 1 	100% increased Totem Duration
+Alternate Quality 2 	40% increased Totem Placement speed
+Discharge 	Default 	20% increased Elemental Damage
+Alternate Quality 1 	40% increased Cast Speed
+Alternate Quality 2 	10% chance to deal Damage without removing Charges
+Alternate Quality 3 	40% increased Damage if three different Charge types removed
+Discipline 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 10% increased Damage while on Full Energy Shield
+Alternate Quality 2 	You and nearby Allies gain 40% increased Energy Shield Recharge rate
+You and nearby Allies have 30% slower start of Energy Shield Recharge
+Divine Ire 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased beam width
+Alternate Quality 2 	20% of Physical Damage Converted to Cold Damage
+Dominating Blow 	Default 	Minions deal 20% increased Damage
+Alternate Quality 1 	30% increased Minion Duration
+Alternate Quality 2 	Summoned Sentinels have 20% increased Cooldown Recovery Rate
+Alternate Quality 3 	Maximum 2 Summoned Normal Sentinels of Dominance
+Double Strike 	Default 	10% increased Attack Speed
+Alternate Quality 1 	40% increased Elemental Damage
+Alternate Quality 2 	20% chance to Maim on Hit
+Dread Banner 	Default 	10% increased effect of Aura
+Alternate Quality 1 	60% less Skill Effect Duration
+Nearby Enemies deal 2% less Damage
+Alternate Quality 2 	You and nearby Allies have 5% chance to Impale Enemies on Hit with Attacks
+Dual Strike 	Default 	+10% to Critical Strike Multiplier
+20% increased Critical Strike Chance
+Alternate Quality 1 	+5 to Melee Strike Range
+Alternate Quality 2 	100% increased Damage with Hits and Ailments against Enemies that are on Full Life
+Alternate Quality 3 	Deals 10% more added damage
+Earthquake 	Default 	20% increased Damage
+Alternate Quality 1 	20% increased Skill Effect Duration
+60% increased Damage
+Alternate Quality 2 	Initial Slam has 40% increased Area of Effect
+Alternate Quality 3 	Increases and Reductions to Spell Damage also apply to Attack Damage from this Skill
+Earthshatter 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% chance to create an additional Fissure
+Alternate Quality 2 	20% increased Fissure Length
+Alternate Quality 3 	Fissures deal 60% more Damage
+Spikes deal 60% less Damage
+Elemental Hit 	Default 	20% increased Elemental Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% increased Effect of non-Damaging Ailments on Enemies
+Elemental Weakness 	Default 	Cursed enemies have -5% to Elemental Resistances
+Alternate Quality 1 	10% increased Effect of Curse
+Alternate Quality 2 	10% increased Duration of Elemental Ailments on Cursed enemies
+Enduring Cry 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	40% reduced Cooldown Recovery Rate
+20% increased Buff Effect
+Enfeeble 	Default 	10% increased Effect of Curse
+Alternate Quality 1 	Curse has 40% increased Doom gain rate
+Alternate Quality 2 	Curse Skills have 10% increased Cast Speed
+Ensnaring Arrow 	Default 	10% increased Attack Speed
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	Ensnared Enemies take 10% increased Spell Damage
+Essence Drain 	Default 	20% increased Chaos Damage
+Alternate Quality 1 	Regenerate 0.10% of Debuff Damage as Life
+Alternate Quality 2 	100% increased Damage with Hits
+Ethereal Knives 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Fires 2 additional Projectiles
+Alternate Quality 2 	10% chance to Impale on Spell Hit
+Explosive Arrow 	Default 	20% increased Skill Effect Duration
+20% chance to Ignite enemies
+Alternate Quality 1 	60% increased Critical Strike Chance
+Alternate Quality 2 	40% less Skill Effect Duration
+Maximum 4 Explosive Arrows stuck in an Enemy
+Explosive Trap 	Default 	10% increased Area of Effect
+Alternate Quality 1 	60% increased Burning Damage
+Alternate Quality 2 	40% of Physical Damage Converted to Cold Damage
+Fire Trap 	Default 	20% increased Fire Damage
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	20% less Area of Effect
+60% chance to Ignite enemies
+Fireball 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	60% increased Area of Effect
+40% reduced Projectile Speed
+Alternate Quality 2 	40% less Damage with Ignite
+60% increased Effect of non-Damaging Ailments on Enemies
+Alternate Quality 3 	5% chance to Debilitate Enemies for 1 second on Hit
+Firestorm 	Default 	20% increased Damage
+Alternate Quality 1 	Base duration is -0.06 seconds
+First Impact deals 60% more damage
+Alternate Quality 2 	20% reduced Enemy Stun Threshold
+Flame Dash 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	20% increased travel distance
+Alternate Quality 2 	40% chance to Ignite enemies
+40% more Burning Damage
+Flame Surge 	Default 	10% increased Cast Speed
+Alternate Quality 1 	10% chance to Scorch Enemies
+Alternate Quality 2 	+5 to Area of Effect length
+Flame Wall 	Default 	10% increased Area of Effect
+Alternate Quality 1 	+10% to Fire Damage over Time Multiplier
+20% reduced Skill Effect Duration
+Alternate Quality 2 	40% increased Cast Speed
+Alternate Quality 3 	Inflicts Fire Exposure for 4 seconds when Enemies enter the wall, applying -10% to their Fire Resistance
+Flameblast 	Default 	20% increased Damage
+Alternate Quality 1 	40% of Fire Damage Converted to Chaos Damage
+20% chance to Poison on Hit
+Alternate Quality 2 	2 maximum Stages
+Alternate Quality 3 	+10 to radius
+10% less Area of Effect per Stage
+Flamethrower Trap 	Default 	20% increased Fire Damage
+Alternate Quality 1 	20% less Skill Effect Duration
+60% increased Cooldown Recovery Rate
+Alternate Quality 2 	20% increased Cast Speed
+Flammability 	Default 	Ignite on Cursed enemies has 10% increased Duration
+Alternate Quality 1 	Curses inflicted by this Skill have +5 to maximum Doom
+Alternate Quality 2 	Hits against Cursed Enemies have +20% chance to Ignite
+Flesh Offering 	Default 	10% increased Skill Effect Duration
+Alternate Quality 1 	Grants Minions 0.4% of Damage Leeched as Life
+Alternate Quality 2 	Grants Minions 10% increased Attack Speed
+Flesh and Stone 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	Buff grants 10% increased Evasion Rating and Armour
+Alternate Quality 2 	Buff grants 20% increased Damage if you've changed Stance recently
+Flicker Strike 	Default 	5% chance to gain a Frenzy Charge on Hit
+Alternate Quality 1 	60% increased Cooldown Recovery Rate
+Alternate Quality 2 	20% increased teleport range
+Freezing Pulse 	Default 	40% increased Projectile Speed
+Alternate Quality 1 	Deals 80% of Damage
+Projetiles gain Damage over time, dealing up to 60% more Damage by the time they dissipate
+Alternate Quality 2 	Cannot Pierce Enemies
+Frenzy 	Default 	10% increased Attack Speed
+Alternate Quality 1 	Fires an additional Projectile
+Alternate Quality 2 	Targets 1 additional nearby Enemy
+Alternate Quality 3 	5% increased Damage with Ailments per Frenzy Charge
+Frost Blades 	Default 	20% increased Projectile Speed
+20% increased Damage
+Alternate Quality 1 	Fires 2 additional Projectiles
+Alternate Quality 2 	20% increased Duration of Cold Ailments
+Frost Bomb 	Default 	20% increased Cold Damage
+Alternate Quality 1 	10% chance to Freeze enemies
+Alternate Quality 2 	20% increased Area of Effect
+Alternate Quality 3 	20% less Skill Effect Duration
+20% increased Cooldown Recovery Rate
+Frost Shield 	Default 	20% increased Effect of Cold Ailments
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	10% of Damage dealt to you or Allies in Area with Hits by Enemies in Area is taken from Frost Shield's Life before your Life or Energy Shield
+Alternate Quality 3 	Frost Shield Regenerates 0.2% of its Life per second
+Frost Wall 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	60% increased Damage
+Alternate Quality 2 	Freezes enemies as though dealing 100% more Damage
+Frostbite 	Default 	Freezes on Cursed enemies have 20% increased Duration
+Alternate Quality 1 	Curses inflicted by this Skill have +5 to maximum Doom
+Alternate Quality 2 	Hits against Cursed Enemies have +20% chance to Freeze
+Frostblink 	Default 	20% increased Effect of Cold Ailments
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	0% increased Cooldown Recovery Rate for each Normal or Magic Enemy in Area
+40% increased Cooldown Recovery Rate for each Rare or Unique Enemy in Area
+Frostbolt 	Default 	20% increased Cold Damage
+Alternate Quality 1 	100% reduced Damage
+20% chance to inflict Cold Exposure on Hit
+Alternate Quality 2 	20% less Projectile Speed
+Alternate Quality 3 	20% chance for Projectiles to Return
+Galvanic Arrow 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	20% reduced Enemy Stun Threshold
+Alternate Quality 2 	Cone Area occurs 80% farther forward
+General's Cry 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Mirage Warriors have 40% increased Movement Speed
+Glacial Cascade 	Default 	20% increased Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% reduced Area of Effect
+Final Burst Deals 40% more Damage
+Glacial Hammer 	Default 	40% increased Duration of Cold Ailments
+Alternate Quality 1 	10% increased Attack Speed
+Alternate Quality 2 	20% increased Area of Effect
+Grace 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 10% chance to avoid Elemental Ailments
+Alternate Quality 2 	You and nearby Allies have 4% chance to Avoid Chaos Damage from Hits
+Ground Slam 	Default 	10% increased Area of Effect
+20% increased Stun Duration on enemies
+Alternate Quality 1 	10% increased Attack Speed
+Alternate Quality 2 	60% increased Area of Effect
+40% reduced angle
+Haste 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 10% increased Totem Placement speed
+Alternate Quality 2 	You and nearby Allies have 10% increased Projectile Speed
+Alternate Quality 3 	Buffs on You and nearby Allies expire 20% faster
+Hatred 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 20% increased Chill and Freeze Duration
+Alternate Quality 2 	You and nearby Allies have 20% increased Movement Speed while on Chilled Ground
+Heavy Strike 	Default 	20% increased Stun Duration on enemies
+20% increased Damage
+Alternate Quality 1 	20% increased Knockback Distance
+Alternate Quality 2 	100% reduced Knockback Distance
+Herald of Agony 	Default 	20% increased Minion Movement Speed
+Alternate Quality 1 	Minions deal 40% less Damage
+Agony Crawler has 20% chance to inflict Withered for 2 seconds on Hit
+Alternate Quality 2 	Grants 20% chance to Poison on Hit
+Herald of Ash 	Default 	Buff grants 15% increased Fire Damage
+Alternate Quality 1 	20% reduced Area of Effect
+60% increased Burning Damage
+Alternate Quality 2 	20% increased Area of Effect
+Herald of Ice 	Default 	Buff grants 15% increased Cold Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	Buff grants 10% chance to Freeze
+Herald of Purity 	Default 	20% increased Minion Movement Speed
+Alternate Quality 1 	Minions have 10% chance to Taunt on Hit
+Alternate Quality 2 	Summoned Sentinels have 20% increased Cooldown Recovery Rate
+Herald of Thunder 	Default 	Buff grants 15% increased Lightning Damage
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	Buff grants 10% increased Damage taken
+Buff grants 30% increased Damage
+Hexblast 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased Cast Speed
+Alternate Quality 2 	40% increased Damage with Ailments
+20% increased Effect of non-Damaging Ailments on Enemies
+Alternate Quality 3 	Hexblast has 10% chance to not remove a Hex
+Holy Flame Totem 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Fires an additional Projectile
+Alternate Quality 2 	20% of Physical Damage Converted to Fire Damage
+Alternate Quality 3 	20% increased Totem Duration
+20% increased Totem Placement speed
+Ice Crash 	Default 	20% increased Damage
+Alternate Quality 1 	10% chance to Freeze enemies
+Alternate Quality 2 	60% increased Damage with Ailments
+Alternate Quality 3 	Third Stage deals 30% more Damage
+First Stage deals 40% less Damage
+Ice Nova 	Default 	10% increased Area of Effect
+Alternate Quality 1 	30% increased Damage with Hits against Chilled Enemies
+Alternate Quality 2 	10% increased Cast Speed
+Alternate Quality 3 	10% increased Effect of Chill
+Ice Shot 	Default 	20% increased Cold Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% of Physical Damage Converted to Cold Damage
+Ice Spear 	Default 	40% increased Projectile Speed
+Alternate Quality 1 	Projectiles Pierce 2 additional Targets
+Alternate Quality 2 	20% increased Cold Damage
+Alternate Quality 3 	Travels 20% reduced distance before changing forms
+Ice Trap 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Penetrates 5% Cold Resistance
+Alternate Quality 2 	Freezes enemies as though dealing 100% more Damage
+Icicle Mine 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Fires 2 additional Projectiles
+Alternate Quality 2 	20% increased Critical Strike Chance
+Immortal Call 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	20% increased Cooldown Recovery Rate
+Alternate Quality 2 	2% less Elemental Damage taken per Endurance Charge removed
+2% more Physical Damage taken per Endurance Charge removed
+Incinerate 	Default 	20% increased Fire Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	4% more Damage with Hits and Ailments for each stage
+Final wave deals 200% less Damage with Hits
+Final wave deals 200% less Damage with Ignite
+Infernal Blow 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Explosion has 20% chance to apply Uncharged Debuff on Hit
+Alternate Quality 2 	60% increased Burning Damage
+20% chance to Ignite enemies
+Alternate Quality 3 	80% increased Skill Effect Duration
+Infernal Cry 	Default 	20% increased Area of Effect
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Exerted Attacks deal 10% increased Damage
+Alternate Quality 3 	20% chance to Cover Enemies in Ash on Hit
+Intimidating Cry 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Exerted Attacks Overwhelm 10% of Physical Damage Reduction
+Alternate Quality 3 	Exerted Attacks deal 10% increased Damage
+Kinetic Blast 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Projectiles Pierce 2 additional Targets
+Alternate Quality 2 	Projectiles gain 30% increased Area of Effect after Forking
+Kinetic Bolt 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Increases and Reductions to Cast Speed apply to Attack Speed
+Alternate Quality 2 	+2 Mana gained for each Enemy hit
+Lacerate 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Physical Damage
+Alternate Quality 2 	20% increased Bleeding Duration
+Lancing Steel 	Default 	20% increased Impale Effect
+Alternate Quality 1 	Clusters have 30% increased Projectile targeting range
+Alternate Quality 2 	Projectiles deal up to 40% increased Damage with Hits and Ailments at the start of their movement, lowering this bonus as they travel farther
+Alternate Quality 3 	10% chance to Impale Enemies on Hit
+Leap Slam 	Default 	20% increased Stun Duration on enemies
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	20% increased Damage
+Alternate Quality 3 	10% increased Attack Speed
+Lightning Arrow 	Default 	20% chance to Shock enemies
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	20% of Physical Damage Converted to Lightning Damage
+Alternate Quality 3 	20% chance to Hit an additional Enemy
+Lightning Spire Trap 	Default 	20% chance to Shock enemies
+Alternate Quality 1 	20% less Skill Effect Duration
+60% increased Cooldown Recovery Rate
+Alternate Quality 2 	10% chance to Hinder Enemies on Hit, with 30% reduced Movement Speed
+Lightning Strike 	Default 	20% increased Projectile Speed
+20% increased Damage
+Alternate Quality 1 	Projectiles Pierce 2 additional Targets
+Alternate Quality 2 	Fires 2 additional Projectiles
+Alternate Quality 3 	20% of Physical Damage Converted to Lightning Damage
+Lightning Tendrils 	Default 	20% increased Lightning Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	10% increased Cast Speed
+Alternate Quality 3 	Deals 60% of Damage
+Stronger Pulses deal 200% more Damage with Hits and Ailments
+Lightning Tendrils 	Default 	20% increased Lightning Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	10% increased Cast Speed
+Alternate Quality 3 	Deals 60% of Damage
+Stronger Pulses deal 200% more Damage with Hits and Ailments
+Lightning Trap 	Default 	20% increased Lightning Damage
+10% increased Effect of Lightning Ailments
+Alternate Quality 1 	20% increased Projectile Speed
+Alternate Quality 2 	20% chance for Projectiles to Return
+Lightning Warp 	Default 	20% increased Cast Speed
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	60% increased Damage
+20% increased Duration
+Alternate Quality 3 	10% less Duration
+Magma Orb 	Default 	20% increased Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% increased Projectile Speed
+Alternate Quality 3 	10% chance to Detonate for Double Damage instead of Chaining
+Malevolence 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby allies have 10% increased Skill Effect Duration
+Alternate Quality 2 	You and nearby Allies deal 10% increased Damage with Ailments
+Mirror Arrow 	Default 	30% increased Arrow Speed
+Alternate Quality 1 	Minions have 20% increased Duration
+Alternate Quality 2 	60% increased Minion Maximum Life
+Alternate Quality 3 	+2 Cooldown Uses
+Molten Shell 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	Buff can take additional Damage equal to 5% of your Armour
+Alternate Quality 2 	Reflected Damage Penetrates 20% of Enemy Fire Resistance
+Molten Strike 	Default 	20% increased Fire Damage
+Alternate Quality 1 	20% increased Projectile Speed
+Alternate Quality 2 	+2 to Melee Strike Range
+Alternate Quality 3 	40% increased Damage over Time
+Orb of Storms 	Default 	20% increased Lightning Damage
+Alternate Quality 1 	Beams Split towards 2 additional targets
+Alternate Quality 2 	20% less Skill Effect Duration
+20% increased Cast Speed
+Penance Brand 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% of Physical Damage Converted to Fire Damage
+Alternate Quality 2 	20% chance to Shock enemies
+Perforate 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% chance to Impale Enemies on Hit
+Alternate Quality 2 	20% chance to cause Bleeding
+Alternate Quality 3 	Creates 2 additional Spikes if you've changed Stance Recently
+Creates 1 fewer Spikes
+Pestilent Strike 	Default 	+10% to Damage over Time Multiplier for Poison
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	20% increased Skill Effect Duration
+Alternate Quality 3 	20% of Physical Damage Converted to Chaos Damage
+Phase Run 	Default 	Buff grants 10% increased Movement Speed
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	10% chance not to replace the Buff when you use a Skill
+Plague Bearer 	Default 	10% increased Area of Effect
+Alternate Quality 1 	You have 10% Movement Speed while Infecting
+Alternate Quality 2 	10% reduced Chaos Damage taken while Incubating
+Poacher's Mark 	Default 	Cursed Enemies have a 5% chance to grant a Frenzy Charge when Hit
+Alternate Quality 1 	Cursed enemies take 4% increased Damage
+Alternate Quality 2 	Cursed enemies have -5% to Physical Damage Reduction
+Power Siphon 	Default 	20% increased Damage
+Alternate Quality 1 	Fires an additional Projectile
+Alternate Quality 2 	+20% to Damage over Time Multiplier for Ailments from Critical Strikes
+Precision 	Default 	40% increased Area of Effect
+Alternate Quality 1 	10% reduced Mana Reserved
+Alternate Quality 2 	You and nearby Allies deal 10% increased Damage
+You and nearby Allies have 10% less Area of Effect
+Pride 	Default 	40% increased Area of Effect
+Alternate Quality 1 	Attack Hits againts nearby Enemies have 10% chance to inflict Bleeding
+Alternate Quality 2 	Nearby Enemies have -5% to Physical Damage Reduction
+Puncture 	Default 	Bleeding inflicted by this Skill deals Damage 10% faster
+Alternate Quality 1 	Projectiles Pierce 2 additional Targets
+Alternate Quality 2 	Targets 2 additional nearby Enemies
+Alternate Quality 3 	10% chance to Maim on Hit
+Punishment 	Default 	10% increased Effect of Curse
+Alternate Quality 1 	Curse has 40% increased Doom gain rate
+Alternate Quality 2 	20% increased Area of Effect of Curses
+Purifying Flame 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% chance to also create Consecrated Ground around you
+Alternate Quality 2 	Consecrated Ground applies 5% increased Damage taken to Enemies
+Alternate Quality 3 	20% increased Effect of Consecrated Ground
+Purity of Elements 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 10% chance to avoid Elemental Ailments
+Alternate Quality 2 	Your and nearby Allies' Damage Penetrates 4% Elemental Resistances
+Purity of Fire 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 20% chance to avoid being Ignited
+Alternate Quality 2 	Your and nearby Allies' Damage Penetrates 4% Fire Resistance
+Purity of Ice 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 20% chance to avoid being Frozen
+Alternate Quality 2 	Your and nearby Allies' Damage Penetrates 4% Cold Resistance
+Purity of Lightning 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have 20% chance to avoid being Shocked
+Alternate Quality 2 	Your and nearby Allies' Damage Penetrates 4% Lightning Resistance
+Pyroclast Mine 	Default 	20% increased Area of Effect
+Alternate Quality 1 	100% increased Burning Damage
+20% chance to Ignite enemies
+Alternate Quality 2 	20% increased effect of Aura
+Alternate Quality 3 	40% increased Damage if firing at least 7 Projectiles
+Rain of Arrows 	Default 	10% increased Area of Effect
+Alternate Quality 1 	5% chance to fire an additional sequence of arrows
+Alternate Quality 2 	Fires 4 additional Arrows
+Alternate Quality 3 	10% chance to Maim on Hit
+Raise Spectre 	Default 	20% increased Minion Movement Speed
+Alternate Quality 1 	20% increased Minion Maximum Life
+Minions deal 20% increased Melee Damage
+Alternate Quality 2 	Minions have 10% reduced Enemy Stun Threshold
+Alternate Quality 3 	Minions are Created with maximum Frenzy Charges
+Raise Zombie 	Default 	20% increased Minion Movement Speed
+20% increased Minion Maximum Life
+Alternate Quality 1 	Raised Zombies' Slam Attack has 40% increased Cooldown Recovery Rate
+Alternate Quality 2 	Minions Regenerate 2% of Life per second
+Alternate Quality 3 	Minions gain 10% of Physical Damage as Extra Chaos Damage
+Minions take Chaos Damage equal to 20% of their Life over one second when Raised
+Rallying Cry 	Default 	20% increased Area of Effect
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Buff has 40% more Effect on your Minions
+Alternate Quality 3 	Exerted Attacks deal 10% increased Damage
+Reave 	Default 	10% increased Attack Speed
+Alternate Quality 1 	100% of Physical Damage converted to a random Element
+Alternate Quality 2 	20% chance to cause Bleeding
+Alternate Quality 3 	+2 to maximum Stages
+Reckoning 	Default 	10% increased Area of Effect
+Alternate Quality 1 	40% chance to Debilitate Enemies for 1 second on Hit
+Alternate Quality 2 	20% increased Cooldown Recovery Rate
+Alternate Quality 3 	20% increased Damage
+Rejuvenation Totem 	Default 	60% increased Aura Area of Effect
+Alternate Quality 1 	100% increased Totem Duration
+Alternate Quality 2 	60% increased effect of Aura
+Righteous Fire 	Default 	20% increased Burning Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	Buff Grants 20% increased Spell Damage
+Riposte 	Default 	20% increased Damage
+Alternate Quality 1 	20% increased Cooldown Recovery Rate
+Alternate Quality 2 	20% chance to gain Onslaught for 4 seconds on Hit
+Scorching Ray 	Default 	10% increased beam length
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	40% less Skill Effect Duration
+40% increased Cast Speed
+Scourge Arrow 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Each Spore Pod fires 2 Thorn Arrows
+Alternate Quality 2 	20% increased Damage
+Alternate Quality 3 	20% chance to Poison on Hit
+Searing Bond 	Default 	20% increased totem life
+Alternate Quality 1 	40% increased Totem Duration
+Alternate Quality 2 	20% increased Damage
+Alternate Quality 3 	+2 to maximum number of Summoned Totems
+Seismic Cry 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	40% increased Warcry Speed
+Alternate Quality 2 	Exerted Attacks have a 40% chance to Knock Enemies Back on Hit
+Alternate Quality 3 	Exerted Attacks deal 10% increased Damage
+Seismic Trap 	Default 	20% increased Physical Damage
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% increased Cooldown Recovery Rate
+Alternate Quality 3 	60% reduced Cast Speed
+100% increased Damage
+Shattering Steel 	Default 	20% increased Impale Effect
+Alternate Quality 1 	10% increased Area of Effect
+20% increased Projectile Speed
+Alternate Quality 2 	Fires an additional Projectile
+Alternate Quality 3 	30% increased Projectile Speed
+Shield Charge 	Default 	20% increased Movement Speed
+Alternate Quality 1 	20% increased Damage
+Alternate Quality 2 	20% more Damage with Hits at Maximum Charge Distance
+Shock Nova 	Default 	40% increased Shock Duration on enemies
+Alternate Quality 1 	Ring has 40% chance to Shock
+Ring Shocks as if dealing 100% more Damage
+Alternate Quality 2 	20% increased Lightning Damage
+Shockwave Totem 	Default 	20% increased totem life
+Alternate Quality 1 	10% increased Cast Speed
+20% increased Totem Placement speed
+Alternate Quality 2 	40% of Physical Damage Converted to Cold Damage
+Alternate Quality 3 	20% chance to Knock Enemies Back on hit
+Shrapnel Ballista 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Chains +2 Times
+Alternate Quality 2 	Projectiles Pierce 2 additional Targets
+Alternate Quality 3 	10% increased Attack Speed
+Siege Ballista 	Default 	20% increased Projectile Damage
+Alternate Quality 1 	Fires 2 additional Projectiles
+20% reduced Attack Speed
+Alternate Quality 2 	20% increased Projectile Speed
+Alternate Quality 3 	20% chance to Impale Enemies on Hit
+Sigil of Power 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Maximum -1 Stages
+Alternate Quality 2 	Buff Grants 20% chance to Shock enemies
+Alternate Quality 3 	10% reduced Mana Cost of your Skills while in Area
+Buff Grants 20% increased Spell Damage
+Siphoning Trap 	Default 	20% increased Effect of Cold Ailments
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	Applies beams to the closest 2 Enemies
+Alternate Quality 3 	Regenerate 0.4% of Energy Shield per second for each affected Enemy
+Smite 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	20% increased Lightning Damage
+Alternate Quality 3 	Aura grants 5% increased Attack and Cast Speed
+Smoke Mine 	Default 	40% increased Area of Effect
+Alternate Quality 1 	20% increased Skill Effect Duration
+Alternate Quality 2 	Buff grants 10% increased Attack and Cast Speed
+Sniper's Mark 	Default 	Cursed enemies take 5% increased Damage from Projectile Hits
+Alternate Quality 1 	Curse Skills have 20% increased Cast Speed
+Alternate Quality 2 	Hits on Cursed Enemies have an additional 40% chance to Knockback
+Soulrend 	Default 	20% increased Chaos Damage
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	20% increased Skill Effect Duration
+Alternate Quality 3 	100% increased Damage with Hits
+Spark 	Default 	20% increased Projectile Speed
+Alternate Quality 1 	Projectiles Pierce 2 additional Targets
+Alternate Quality 2 	Fires 2 additional Projectiles
+Alternate Quality 3 	40% of Lightning Damage Converted to Chaos Damage
+Spectral Shield Throw 	Default 	40% increased Projectile Speed
+Alternate Quality 1 	20% increased Damage
+Alternate Quality 2 	10% increased Attack Speed
+Alternate Quality 3 	+20% to Critical Strike Multiplier per 100 Maximum Energy Shield on Shield
+Spectral Throw 	Default 	10% increased Attack Speed
+Alternate Quality 1 	20% increased Projectile Speed
+Alternate Quality 2 	Fires an additional Projectile
+10% reduced Projectile Speed
+Spellslinger 	Default 	Supported Skills deal 20% increased Spell Damage
+Alternate Quality 1 	Supported Skills have 20% chance to Freeze, Shock and Ignite
+Alternate Quality 2 	Supported Skills have 40% reduced Cooldown Recovery Rate
+Supported Skills have Added Spell Damage equal to 40% of Damage of Equipped Wand
+If two Wands are Equipped, each contributes half as much Added Damage
+Spirit Offering 	Default 	10% increased Skill Effect Duration
+Alternate Quality 1 	40% increased Cast Speed
+Alternate Quality 2 	Minions gain +20% to all Elemental Resistances
+Split Arrow 	Default 	10% increased Attack Speed
+Alternate Quality 1 	Fires an additional Arrow
+Alternate Quality 2 	20% increased Damage
+Splitting Steel 	Default 	20% increased Impale Effect
+Alternate Quality 1 	10% chance to inflict an additional Impale when this Skill inflcits Impale
+Alternate Quality 2 	10% increased Area of Effect
+20% increased Projectile Speed
+Alternate Quality 3 	Grants Minions 40% increased Damage
+Static Strike 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	20% increased Damage
+Alternate Quality 2 	Chains +1 Times
+40% reduced Damage
+Alternate Quality 3 	20% increased Beam frequency
+20% reduced Area of Effect
+Steelskin 	Default 	10% increased Cooldown Recovery Rate
+Alternate Quality 1 	Steelskin Buff can take 10% increased amount of Damage
+Alternate Quality 2 	Buff grants +20% to all Resistances
+Storm Brand 	Default 	10% increased Cast Speed
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% chance to Chain an additional time
+Alternate Quality 3 	20% increased Effect of Shock
+Storm Burst 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased Skill Effect Duration
+Alternate Quality 2 	40% reduced Explosion Area of Effect
+40% increased Area of Effect while Channelling
+Storm Call 	Default 	10% increased Area of Effect
+Alternate Quality 1 	40% reduced Cast Speed
+40% increased Area of Effect
+Alternate Quality 2 	10% reduced Skill Effect Duration
+Alternate Quality 3 	5% chance for Lightning to Strike the Marker when Cast
+Stormbind 	Default 	10% increased Cast Speed
+10% increased Cast Speed
+Alternate Quality 1 	20% increased Effect of Shock
+Alternate Quality 2 	Runes have 10% increased Area of Effect for each time they've been Improved
+Alternate Quality 3 	20% more Damage
+Runes deal 60% less Damage with Hits and Ailments for each time they have been Improved
+Stormblast Mine 	Default 	10% chance to Shock enemies
+10% increased Effect of Lightning Ailments
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% increased effect of Aura
+Alternate Quality 3 	20% increased Lightning Damage
+Summon Carrion Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Summon Chaos Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Summon Flame Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Summon Holy Relic 	Default 	Minions have 10% increased Area of Effect
+Alternate Quality 1 	60% increased Minion Maximum Life
+Alternate Quality 2 	Summoned Holy Relics have 20% increased Cooldown Recovery Rate
+Summon Ice Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Summon Lightning Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Summon Raging Spirit 	Default 	20% increased Minion Movement Speed
+Alternate Quality 1 	Minions have 20% increased Duration
+Alternate Quality 2 	Maximum 2 Summoned Raging Spirits
+Alternate Quality 3 	Minions can't be Damaged for 2 seconds after being Summoned
+Summon Skeletons 	Default 	Minions deal 20% increased Damage
+Alternate Quality 1 	Minions can't be Damaged for 2 seconds after being Summoned
+Alternate Quality 2 	Minions' Attacks have 10% chance to Maim Enemies on Hit
+Alternate Quality 3 	100% chance to Summon a Skeleton Archer instead of a Skeleton Warrior
+Summon Skitterbots 	Default 	40% increased Minion Movement Speed
+Alternate Quality 1 	Minions have 20% increased Area of Effect
+Alternate Quality 2 	Minions have 10% increased Effect of non-Damaging Ailments on Enemies
+Summon Stone Golem 	Default 	Minions deal 20% increased Damage
+20% increased Minion Maximum Life
+Alternate Quality 1 	20% increased Buff Effect
+Alternate Quality 2 	Summoned Golems have 20% increased Cooldown Recovery Rate
+Sunder 	Default 	10% increased Area of Effect
+Alternate Quality 1 	Wave has 10% reduced delay between Areas
+Alternate Quality 2 	20% increased Area of Effect
+Alternate Quality 3 	Shockwaves have 20% reduced Area of Effect
+Wave has 20% increased Area of Effect
+Sweep 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased Attack Speed
+Alternate Quality 2 	2% chance to deal Triple Damage
+Alternate Quality 3 	20% increased Knockback Distance
+Tectonic Slam 	Default 	10% increased Area of Effect
+Alternate Quality 1 	60% increased Burning Damage
+20% chance to Ignite enemies
+Alternate Quality 2 	2% of Fire Damage Leeched as Life
+Alternate Quality 3 	20% increased Fire Damage
+Tempest Shield 	Default 	20% increased Lightning Damage
+Alternate Quality 1 	Chains +2 Times
+Alternate Quality 2 	+1% Chance to Block Attack Damage while holding a Shield
++1% Chance to Block Spell Damage while holding a Shield
+Temporal Chains 	Default 	10% increased Effect of Curse
+Alternate Quality 1 	Curse has 40% increased Doom gain rate
+Alternate Quality 2 	20% increased Curse Duration
+Tornado Shot 	Default 	20% increased Projectile Damage
+Alternate Quality 1 	60% of Physical Damage converted to a random Element
+Alternate Quality 2 	10% increased Attack Speed
+Toxic Rain 	Default 	10% increased Area of Effect
+Alternate Quality 1 	10% increased Skill Effect Duration
+Alternate Quality 2 	20% of Physical Damage Converted to Chaos Damage
+Alternate Quality 3 	Fires 2 additional Arrows
+20% reduced Debuff Effect
+Unearth 	Default 	10% increased Cast Speed
+Alternate Quality 1 	20% increased Physical Damage
+Alternate Quality 2 	Maximum of 2 corpses allowed
+Alternate Quality 3 	Corpses Spawned have 40% increased Maximum Life
+Vengeance 	Default 	10% chance to Trigger this Skill when Hit
+Alternate Quality 1 	20% increased Cooldown Recovery Rate
+Alternate Quality 2 	20% increased Damage
+Alternate Quality 3 	40% chance to gain 1 Rage on Hit
+Venom Gyre 	Default 	20% increased Poison Duration
+Alternate Quality 1 	Returning Projectiles deal 20% more Damage
+Alternate Quality 2 	100% chance to Fire a caught Projectile when Hit
+Vigilant Strike 	Default 	40% increased Fortify duration
+Alternate Quality 1 	40% increased Area of Effect
+Alternate Quality 2 	60% increased Cooldown Recovery Rate
+Alternate Quality 3 	20% increased Damage
+Viper Strike 	Default 	10% increased Attack Speed
+10% increased Poison Duration
+Alternate Quality 1 	20% of Physical Damage Converted to Chaos Damage
+Alternate Quality 2 	20% increased Chaos Damage
+Alternate Quality 3 	10% chance to also Poison a nearby Enemy when you inflict Poison
+Vitality 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies Leech 0.4% of Physical Attack Damage as Life
+Alternate Quality 2 	You and nearby Allies deal 20% increased Damage while on Full Life
+Void Sphere 	Default 	10% increased Area of Effect
+Alternate Quality 1 	40% reduced Skill Effect Duration
+40% increased Cooldown Recovery Rate
+Alternate Quality 2 	60% of Physical Damage Converted to Cold Damage
+Alternate Quality 3 	Void Sphere has 10% increased Pulse Frequency
+Volatile Dead 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Fire Damage
+Alternate Quality 2 	20% increased Orb Movement Speed
+Vortex 	Default 	10% increased Area of Effect
+Alternate Quality 1 	20% increased Cold Damage
+Alternate Quality 2 	20% less Skill Effect Duration
+20% increased Cooldown Recovery Rate
+Alternate Quality 3 	40% increased Damage when Cast on Frostbolt
+Vulnerability 	Default 	Attacks Hits against Cursed Enemies have 10% chance to inflict Bleeding
+Alternate Quality 1 	10% increased Effect of Curse
+Alternate Quality 2 	Attack Hits have 10% chance to Maim Cursed Enemies for 4 seconds
+War Banner 	Default 	10% increased effect of Aura
+Alternate Quality 1 	60% less Skill Effect Duration
+You and nearby allies gain 10% increased Accuracy Rating
+Alternate Quality 2 	20% increased Skill Effect Duration
+Warlord's Mark 	Default 	Cursed Enemies have a 5% chance to grant an Endurance Charge when Hit
+Alternate Quality 1 	Cursed enemies take 4% increased Damage
+Alternate Quality 2 	Cursed Enemies grant 2 Rage Regenerated over 1 second when Stunned
+Wave of Conviction 	Default 	20% increased Elemental Damage
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	20% increased Skill Effect Duration
+Alternate Quality 3 	20% of Physical Damage Converted to Cold Damage
+Whirling Blades 	Default 	10% increased Attack Speed
+Alternate Quality 1 	60% increased Damage
+Alternate Quality 2 	200% increased Evasion Rating while Moving
+Wild Strike 	Default 	20% increased Elemental Damage
+Alternate Quality 1 	20% increased Area of Effect
+Alternate Quality 2 	Fires 2 additional Projectiles
+Alternate Quality 3 	20% increased Chaining range
+Winter Orb 	Default 	10% increased Cast Speed
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	20% increased Skill Effect Duration
+Alternate Quality 3 	40% increased Projectile Speed
+Wintertide Brand 	Default 	+10% to Cold Damage over Time Multiplier
+Alternate Quality 1 	10% increased Area of Effect
+Alternate Quality 2 	40% increased Skill Effect Duration
+40% reduced Cast Speed
+Wither 	Default 	20% increased Skill Effect Duration
+Alternate Quality 1 	Hindered Enemies deal 4% reduced Chaos Damage
+Alternate Quality 2 	100% chance to apply an additional Withered Debuff if you Cast this spell yourself
+Withering Step 	Default 	10% increased Effect of Elusive from this Skill
+Alternate Quality 1 	Inflicts 2 Withered Debuffs the first time each Enemy enters the Area
+Alternate Quality 2 	20% chance not to remove Buff on Skill use
+Wrath 	Default 	40% increased Area of Effect
+Alternate Quality 1 	5% increased effect of Aura
+Alternate Quality 2 	2% reduced Mana Reserved
+Zealotry 	Default 	40% increased Area of Effect
+Alternate Quality 1 	You and nearby Allies have +5% to Critical Strike Multiplier
+Alternate Quality 2 	You and nearby Allies Regenerate 0.40% of Life per second
