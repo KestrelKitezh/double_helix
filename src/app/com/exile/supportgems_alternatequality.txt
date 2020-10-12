@@ -970,7 +970,7 @@
     alt2: 'Supported Skills deal 20% less Damage, Final Repeat of Supported Skills deals 60% more Damage',
 },
 { 
-    level: 1, 
+    level: 8, 
     name: 'Spell Totem' 
     support: 'Support', 
     default: '20% increased Totem Placement speed',
@@ -978,7 +978,7 @@
     alt2: '20% increased Totem Range',
 },
 { 
-    level: 1, 
+    level: 8, 
     name: 'Stun' 
     support: 'Support', 
     default: 'Supported Skills have 30% increased Stun Duration on Enemies',
@@ -986,7 +986,7 @@
     alt2: 'Recover 1% of Life when you Stun an Enemy with Supported Skills',
 },
 { 
-    level: 1, 
+    level: 4, 
     name: 'Summon Phantasm' 
     support: 'Support', 
     default: '10% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions, from Supported Skills, deal a Killing Blow',
@@ -994,7 +994,7 @@
     alt2: 'Supported Skills have 10% increased Skill Effect Duration',
 },
 { 
-    level: 1, 
+    level: 31, 
     name: 'Swift Affliction' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Damage over Time',
@@ -1002,7 +1002,7 @@
     alt2: 'You and Enemies have 20% increased Movement Speed while inflicted with an Ailment from Supported Skills',
 },
 { 
-    level: 1, 
+    level: 4, 
     name: 'Swift Assembly' 
     support: 'Support', 
     default: 'Supported Skills have 10% increased Mine Throwing Speed, Supported Skills have 10% increased Trap Throwing Speed',
@@ -1010,7 +1010,7 @@
     alt2: 'Supported Skills have 2% increased Mine Throwing Speed per Frenzy Charge, Supported Skills have 2% increased Trap Throwing Speed per Frenzy Charge',
 },
 { 
-    level: 1, 
+    level: 31, 
     name: 'Swiftbrand' 
     support: 'Support', 
     default: 'Supported Skills have 5% increased Activation frequency',
@@ -1018,7 +1018,7 @@
     alt2: 'Supported Skills have 20% more Activation Frequency if 75% of Attached Duration expired',
 },
 { 
-    level: 1, 
+    level: 8, 
     name: 'Trap' 
     support: 'Support', 
     default: 'Supported Skills have 10% increased Trap Throwing Speed',
@@ -1026,7 +1026,7 @@
     alt2: 'Supported Skills have 20% increased Trap Trigger Area of Effect',
 },
 { 
-    level: 1, 
+    level: 18, 
     name: 'Trap and Mine Damage' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Damage',
@@ -1034,7 +1034,7 @@
     alt2: 'Supported Skills deal 2% increased Damage per Power Charge',
 },
 { 
-    level: 1, 
+    level: 8, 
     name: 'Unbound Ailments' 
     support: 'Support', 
     default: 'Supported Skills have 10% increased Duration of Ailments on Enemies',
@@ -1042,7 +1042,7 @@
     alt2: 'Supported Skills deal 30% increased Damage while you are affected by an Ailment',
 },
 { 
-    level: 1, 
+    level: 38, 
     name: 'Unleash' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Spell Damage',
@@ -1050,7 +1050,7 @@
     alt2: 'Supported Skills have 50% increased Seal gain frequency while you are Channelling, Supported Skills have 100% reduced Seal gain frequency while you are not Channelling',
 },
 { 
-    level: 1, 
+    level: 31, 
     name: 'Urgent Orders' 
     support: 'Support', 
     default: 'Supported Skills have 10% increased Warcry Speed',
@@ -1058,7 +1058,7 @@
     alt2: 'Supported Skills have minimum of 10 Power',
 },
 { 
-    level: 1, 
+    level: 18, 
     name: 'Vicious Projectiles' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Physical Damage',
@@ -1066,7 +1066,7 @@
     alt2: 'Supported Attacks have 10% chance to Impale Enemies on Hit',
 },
 { 
-    level: 1, 
+    level: 38, 
     name: 'Vile Toxins' 
     support: 'Support', 
     default: 'Supported Skills deal 20% increased Damage with Poison',
@@ -1074,7 +1074,7 @@
     alt2: 'Poisons from Supported Skills deal Damage 5% faster',
 },
 { 
-    level: 1, 
+    level: 8, 
     name: 'Void Manipulation' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Chaos Damage',
@@ -1082,7 +1082,7 @@
     alt2: 'Supported Skills have 0.4% of Chaos Damage Leeched as Life',
 },
 { 
-    level: 1, 
+    level: 4, 
     name: 'Volley' 
     support: 'Support', 
     default: 'Supported Skills deal 20% increased Projectile Damage',
@@ -1090,7 +1090,7 @@
     alt2: 'Supported Skills have 10% increased Area of Effect',
 },
 { 
-    level: 1, 
+    level: 38, 
     name: 'Withering Touch' 
     support: 'Support', 
     default: 'Supported Skills deal 10% increased Chaos Damage',
