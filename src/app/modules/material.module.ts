@@ -16,7 +16,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { DrawerRailModule } from 'angular-material-rail-drawer';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatExpansionModule } from '@angular/material/expansion';
-import {MatList, MatListModule} from '@angular/material/list'; 
+import { MatListModule} from '@angular/material/list';
 
 @NgModule({
   declarations: [],

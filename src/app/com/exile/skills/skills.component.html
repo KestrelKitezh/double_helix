@@ -1,6 +1,15 @@
 <section>
     <mat-card class="container">
-        <h4>Click arrow for showing alternate quality for the gem.</h4>
+        <mat-card class="filter-container mat-elevation-z8" fxLayout="row" fxLayoutAlign="start center">
+            <span fxFlex="40%">Click arrow for showing alternate quality for the gem.</span>
+            <span fxFlex="grow"></span>
+            <span>Filter:</span>
+            <form class="form">
+                <mat-form-field class="form-field">
+                    <input matInput type="search" placeholder="type here to filter gems" value="">
+                </mat-form-field>
+            </form>
+        </mat-card>
         <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
             <!--  -->
             <!-- Column 1: level -->
@@ -49,11 +58,7 @@
                         </mat-expansion-panel-header>
                         <mat-list role="list">
                             <mat-list-item role="listitem">{{skills.alt1}}</mat-list-item>
-                        </mat-list>
-                        <mat-list role="list">
                             <mat-list-item role="listitem">{{skills.alt2}}</mat-list-item>
-                        </mat-list>
-                        <mat-list role="list">
                             <mat-list-item role="listitem">{{skills.alt3}}</mat-list-item>
                         </mat-list>
                     </mat-expansion-panel>
