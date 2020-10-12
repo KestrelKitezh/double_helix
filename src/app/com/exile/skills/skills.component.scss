@@ -6,3 +6,14 @@
 table {
     width: 100%;
 }
+
+.mat-column-level {
+    flex: none;
+    min-width: 50px;
+}
+.mat-column-name {
+    flex: none;
+    min-width: 250px;
+}
+.col-type {}
+.col-quality {}

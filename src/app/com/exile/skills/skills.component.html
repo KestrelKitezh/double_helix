@@ -13,19 +13,19 @@
         <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
             <!--  -->
             <!-- Column 1: level -->
-            <ng-container matColumnDef="level">
+            <ng-container matColumnDef="level" class="col-level">
                 <th mat-header-cell *matHeaderCellDef>Lvl</th>
                 <td mat-cell *matCellDef="let skills">{{skills.level}}</td>
             </ng-container>
             <!--  -->
             <!-- Column 2: name -->
-            <ng-container matColumnDef="name">
+            <ng-container matColumnDef="name" class="col-name">
                 <th mat-header-cell *matHeaderCellDef>Gem</th>
                 <td mat-cell *matCellDef="let skills">{{skills.name}}</td>
             </ng-container>
             <!--  -->
             <!-- Column 3: Gem type (active/support) -->
-            <ng-container matColumnDef="support">
+            <ng-container matColumnDef="support" class="col-type">
                 <th mat-header-cell *matHeaderCellDef>Type</th>
                 <td mat-cell *matCellDef="let skills">{{skills.support}}</td>
             </ng-container>
@@ -49,7 +49,7 @@
             </ng-container>
             <!--  -->
             <!-- Column 7: alternate 3-->
-            <ng-container matColumnDef="alt3">
+            <ng-container matColumnDef="alt3" class="col-quality">
                 <th mat-header-cell *matHeaderCellDef>Quality</th>
                 <td mat-cell *matCellDef="let skills">
                     <mat-expansion-panel>

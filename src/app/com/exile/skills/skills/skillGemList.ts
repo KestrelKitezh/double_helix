@@ -6,7 +6,7 @@ export const skillGemList: SkillGemList[] = [
       name: 'Ancestral Cry',
       support: 'Active',
       default: '10% increased Cooldown Recovery Rate',
-      alt1: 'Anomalous : 40% increased Warcry Speed\nDivergent : Buff grants 20% increased Armour',
+      alt1: 'Anomalous : 40% increased Warcry Speed',
       alt2: 'Divergent : Buff grants 20% increased Armour',
     },
     {
