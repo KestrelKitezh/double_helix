@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { Subject, Subscription } from 'rxjs';
-import { of } from 'rxjs/internal/observable/of';
 import { skillGemList } from './skills/skillGemList';
 import { supportGemList } from './skills/supportGemList';
 import { debounceTime } from 'rxjs/operators';
