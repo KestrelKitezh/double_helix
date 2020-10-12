@@ -1,4 +1,4 @@
-import { SkillGemList } from './skills.component';
+import { SkillGemList } from '../skills.component';
 
 export const skillGemList: SkillGemList[] = [
     {
