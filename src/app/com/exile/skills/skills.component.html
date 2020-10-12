@@ -6,7 +6,7 @@
             <span>Filter:</span>
             <form class="form">
                 <mat-form-field class="form-field">
-                    <input matInput type="search" placeholder="type here to filter gems" value="">
+                    <input matInput (keyup)="applyFilter($event)" placeholder="Apply filter" #input>
                 </mat-form-field>
             </form>
         </mat-card>
@@ -67,6 +67,10 @@
 
             <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
             <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+            <tr class="mat-row" *matNoDataRow>
+                <td class="mat-cell" colspan="4">no data matching the filter "{{input.value}}"</td>
+            </tr>
         </table>
     </mat-card>
 </section>

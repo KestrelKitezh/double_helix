@@ -4,14 +4,9 @@ import { NgModule } from '@angular/core';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { LayoutModule } from '@angular/cdk/layout';
-// import {AquilaModule} from './modules/aquila.module';
 import { MaterialModule } from './modules/material.module';
 import { AppRoutingModule } from './modules/app-routing.module';
-import { MatToolbarModule } from '@angular/material/toolbar';
-import { MatButtonModule } from '@angular/material/button';
-import { MatSidenavModule } from '@angular/material/sidenav';
-import { MatIconModule } from '@angular/material/icon';
-import { MatListModule } from '@angular/material/list';
+// import {AquilaModule} from './modules/aquila.module';
 
 import { AppComponent } from './app.component';
 import { FooterComponent } from './com/footer/footer.component';
@@ -35,11 +30,6 @@ import { SkillsComponent } from './com/exile/skills/skills.component';
     BrowserAnimationsModule,
     MaterialModule,
     LayoutModule,
-    MatToolbarModule,
-    MatButtonModule,
-    MatSidenavModule,
-    MatIconModule,
-    MatListModule,
     FlexLayoutModule,
     // AquilaModule,
   ],

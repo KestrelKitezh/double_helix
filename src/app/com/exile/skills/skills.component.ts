@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MatTableDataSource } from '@angular/material/table';
 
 export interface SkillGemList {
   name: string;
@@ -2003,10 +2004,15 @@ const DATA: SkillGemList[] = [
 })
 export class SkillsComponent implements OnInit {
   displayedColumns: string[] = ['level', 'name', 'support', 'default', 'alt1', 'alt2', 'alt3'];
-  dataSource = DATA;
+  dataSource = new MatTableDataSource(DATA);
 
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 }

@@ -10,35 +10,17 @@ import { MatMenuModule } from '@angular/material/menu';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
-import { MatTableModule } from '@angular/material/table';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatTooltipModule } from '@angular/material/tooltip';
 import { DrawerRailModule } from 'angular-material-rail-drawer';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatListModule} from '@angular/material/list';
+import { MatButtonModule } from '@angular/material/button';
+import { MatTableModule } from '@angular/material/table';
+
 
 @NgModule({
-  declarations: [],
-  imports: [
-    MatFormFieldModule,
-    MatDialogModule,
-    MatButtonToggleModule,
-    MatCardModule,
-    MatIconModule,
-    MatInputModule,
-    MatMenuModule,
-    MatRadioModule,
-    MatSidenavModule,
-    MatSlideToggleModule,
-    MatTableModule,
-    MatToolbarModule,
-    MatTooltipModule,
-    DrawerRailModule,
-    MatGridListModule,
-    MatExpansionModule,
-    MatListModule,
-  ],
   exports: [
     MatFormFieldModule,
     MatDialogModule,
@@ -57,6 +39,7 @@ import { MatListModule} from '@angular/material/list';
     MatGridListModule,
     MatExpansionModule,
     MatListModule,
+    MatButtonModule,
   ]
 })
 export class MaterialModule { }
