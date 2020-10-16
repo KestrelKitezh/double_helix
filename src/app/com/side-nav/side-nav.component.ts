@@ -1,6 +1,5 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
 
-
 @Component({
   selector: 'app-side-nav',
   templateUrl: './side-nav.component.html',
@@ -9,4 +8,6 @@ import { Component, ElementRef, ViewChild } from '@angular/core';
 export class SideNavComponent {
   @ViewChild('appDrawer') appDrawer: ElementRef;
   isAuth: boolean = true;
+  opened: boolean;
+
 }

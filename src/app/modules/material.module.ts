@@ -18,6 +18,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { MatListModule} from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
 import { MatTableModule } from '@angular/material/table';
+import { MatTreeModule } from '@angular/material/tree';
 
 
 @NgModule({
@@ -40,6 +41,7 @@ import { MatTableModule } from '@angular/material/table';
     MatExpansionModule,
     MatListModule,
     MatButtonModule,
+    MatTreeModule,
   ]
 })
 export class MaterialModule { }

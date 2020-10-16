@@ -14,6 +14,7 @@ import { SideNavComponent } from './com/side-nav/side-nav.component';
 import { BlightComponent } from './com/exile/blight/blight.component';
 import { HomeComponent } from './com/home/home.component';
 import { SkillsComponent } from './com/exile/skills/skills.component';
+import { ExileBuildingForkComponent } from './com/exile/exile-building-fork/exile-building-fork.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { SkillsComponent } from './com/exile/skills/skills.component';
     BlightComponent,
     HomeComponent,
     SkillsComponent,
+    ExileBuildingForkComponent,
   ],
   imports: [
     BrowserModule,

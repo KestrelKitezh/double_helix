@@ -9,17 +9,17 @@
   <button mat-raised-button class="toolbar-icon" *ngIf="!isAuth">logout</button>
   <button mat-raised-button class="toolbar-icon" *ngIf="!isAuth">signup</button>
 </mat-toolbar>
-<mat-sidenav-container>
-  <mat-sidenav #appDrawer mode="rail" opened="false">
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #appDrawer mode="rail" opened="false" (mouseenter)="appDrawer.toggle()"
+    (mouseleave)="appDrawer.toggle()">
+    <!-- toolbar divider -->
+    <mat-toolbar class="sidenav-toolbar">
+      <mat-icon>subdirectory_arrow_right</mat-icon>
+      Path of Exile
+    </mat-toolbar>
+    <!-- sub nav list -->
     <mat-nav-list class="dashboard">
-      <a mat-list-item routerLink="/exile/blight" routerLinkActive="active" *ngIf="!isAuth">
-        <mat-icon mat-list-icon>account_circle</mat-icon>
-        <p matLine>Name</p>
-      </a>
-
-      <mat-divider></mat-divider>
-
-      <a mat-list-item routerLink="/exile/blight" routerLinkActive="active" *ngIf="!isAuth">
+      <a mat-list-item routerLink="/exile/blight" routerLinkActive="active" *ngIf="isAuth">
         <mat-icon mat-list-icon>inbox</mat-icon>
         <p matLine>Blight</p>
       </a>
@@ -27,10 +27,24 @@
         <mat-icon mat-list-icon>star</mat-icon>
         <p matLine>Skill Gems</p>
       </a>
+      <a mat-list-item routerLink="/exile/building" routerLinkActive="active" *ngIf="isAuth">
+        <mat-icon mat-list-icon>account_circle</mat-icon>
+        <p matLine>Path of Building</p>
+      </a>
+    <!-- category divider -->
+    <mat-divider></mat-divider>
+    <!-- toolbar divider 2, new category -->
+    <mat-toolbar class="sidenav-toolbar">
+      <mat-icon>subdirectory_arrow_right</mat-icon>
+      New Category
+    </mat-toolbar>
+    <!-- sub nav list -->
+    <mat-nav-list class="dashboard">
       <a mat-list-item>
         <mat-icon mat-list-icon>drafts</mat-icon>
         <p matLine>Drafts</p>
       </a>
+    </mat-nav-list>
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
