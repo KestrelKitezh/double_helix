@@ -15,6 +15,8 @@ import { BlightComponent } from './com/exile/blight/blight.component';
 import { HomeComponent } from './com/home/home.component';
 import { SkillsComponent } from './com/exile/skills/skills.component';
 import { ExileBuildingForkComponent } from './com/exile/exile-building-fork/exile-building-fork.component';
+import { EventsComponent } from './com/events/events.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -25,11 +27,13 @@ import { ExileBuildingForkComponent } from './com/exile/exile-building-fork/exil
     HomeComponent,
     SkillsComponent,
     ExileBuildingForkComponent,
+    EventsComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    ReactiveFormsModule,
     MaterialModule,
     LayoutModule,
     FlexLayoutModule,

@@ -1,0 +1,23 @@
+<section>
+    <div>
+        <mat-expansion-panel hideToggle class="grid-container">
+            <mat-expansion-panel-header>
+                <mat-panel-title>
+                    {{eventname}}
+                </mat-panel-title>
+                <mat-panel-description>{{eventcountdown}}</mat-panel-description>
+            </mat-expansion-panel-header>
+            <mat-panel-title>
+                <form class="example-form" [formGroup]="formGroup" (ngSubmit)="onFormSubmit()" ngNativeValidate>
+                    <mat-slide-toggle formControlName="fixedDateSlide">Fixed Date</mat-slide-toggle>
+                    <mat-slide-toggle formControlName="acceptTerms">Accept Terms of Service</mat-slide-toggle>
+                    <button mat-raised-button>test</button>
+                </form>
+            </mat-panel-title>
+            <!-- <mat-panel-description>desc</mat-panel-description> -->
+            <!-- <mat-action-row>
+                    test
+                </mat-action-row>   -->
+        </mat-expansion-panel>
+    </div>
+</section>
