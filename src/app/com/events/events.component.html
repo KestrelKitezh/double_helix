@@ -1,23 +1,86 @@
 <section>
     <div>
-        <mat-expansion-panel hideToggle class="grid-container">
+        <!-- <mat-expansion-panel hideToggle>
             <mat-expansion-panel-header>
                 <mat-panel-title>
-                    {{eventname}}
+                    Eventname
                 </mat-panel-title>
-                <mat-panel-description>{{eventcountdown}}</mat-panel-description>
+                <mat-panel-description>desc : 0 : 0 : 0 : 0
+                    <mat-spinner></mat-spinner>
+                    <mat-progress-spinner mode="determinate" color="warn" value="51" diameter="50"></mat-progress-spinner>
+                </mat-panel-description>
             </mat-expansion-panel-header>
             <mat-panel-title>
-                <form class="example-form" [formGroup]="formGroup" (ngSubmit)="onFormSubmit()" ngNativeValidate>
-                    <mat-slide-toggle formControlName="fixedDateSlide">Fixed Date</mat-slide-toggle>
-                    <mat-slide-toggle formControlName="acceptTerms">Accept Terms of Service</mat-slide-toggle>
-                    <button mat-raised-button>test</button>
+                <form class="grid-container" [formGroup]="formGroup" (ngSubmit)="onFormSubmit()" ngNativeValidate>
+
+                    <mat-slide-toggle class="grid-item1" formControlName="fixedDateSlide" [(ngModel)]="isChecked">Fixed
+                        Date</mat-slide-toggle>
+                    <mat-form-field form-field>
+                        <mat-label>{{days}}</mat-label>
+                        <input matInput type="text" [(ngModel)]="days">
+                        <button mat-button matSuffix mat-icon-button (click)="days=0">
+                            <mat-icon>close</mat-icon>
+                        </button>
+                    </mat-form-field>
+                    <button mat-raised-button type="submit">Save</button>
                 </form>
             </mat-panel-title>
-            <!-- <mat-panel-description>desc</mat-panel-description> -->
-            <!-- <mat-action-row>
+            <mat-action-row>
                     test
-                </mat-action-row>   -->
-        </mat-expansion-panel>
+                </mat-action-row>
+        </mat-expansion-panel> -->
+
+        <!-- The display container -->
+        <mat-card class="grid-container" style="margin: 2px;">
+            <!-- The header, eventname -->
+            <h4 class="grid-header">Eventname</h4>
+            <!-- Days -->
+            <mat-progress-spinner class="grid-main-day" mode="determinate" color="warn" value="25" diameter="175"
+                strokeWidth="5"></mat-progress-spinner>
+            <h2 class="grid-footer-day">5 days</h2>
+
+            <!-- Hours -->
+            <mat-progress-spinner class="grid-main-hour" mode="determinate" color="primary" value="50" diameter="175"
+                strokeWidth="5"></mat-progress-spinner>
+            <h2 class="grid-footer-hour">5 hour</h2>
+
+            <!-- Mins -->
+            <mat-progress-spinner class="grid-main-min" mode="determinate" color="warn" value="75" diameter="175"
+                strokeWidth="5"></mat-progress-spinner>
+            <h2 class="grid-footer-min">5 min</h2>
+
+            <!-- Secs -->
+            <mat-progress-spinner class="grid-main-sec" mode="determinate" color="accent" value="100" diameter="175"
+                strokeWidth="5"></mat-progress-spinner>
+            <h2 class="grid-footer-sec">5 sec</h2>
+
+            <!-- Event options -->
+            <button mat-icon-button color="primary" class="grid-footer-end">
+                <mat-icon>settings</mat-icon>
+            </button>
+        </mat-card>
+        <!-- The option container -->
+        <mat-card class="grid-container-options" style="margin: 2px;">
+
+            <mat-label>Fixed date:</mat-label>
+            <!-- <mat-slide-toggle class="grid-main1" color="primary" [(ngModel)]="isToggled"></mat-slide-toggle> -->
+
+            <!-- shown if picked date is chosen -->
+            <mat-label>Pick date:</mat-label>
+            <!-- <button mat-raised-button color="primary" type="submit"> -->
+            <!-- <mat-icon>today</mat-icon> -->
+            <!-- </button> -->
+            <mat-form-field form-field>
+                <mat-label>{{days}}</mat-label>
+                <input matInput type="text" [(ngModel)]="days">
+                <button mat-button matSuffix mat-icon-button (click)="days=1">
+                    <mat-icon>close</mat-icon>
+                </button>
+            </mat-form-field>
+
+            <!-- shown if picked date is not chosen -->
+            <mat-label></mat-label>
+
+        </mat-card>
     </div>
 </section>

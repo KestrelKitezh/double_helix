@@ -6,6 +6,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { LayoutModule } from '@angular/cdk/layout';
 import { MaterialModule } from './modules/material.module';
 import { AppRoutingModule } from './modules/app-routing.module';
+import { ReactiveFormsModule } from '@angular/forms';
 // import {AquilaModule} from './modules/aquila.module';
 
 import { AppComponent } from './app.component';
@@ -16,7 +17,6 @@ import { HomeComponent } from './com/home/home.component';
 import { SkillsComponent } from './com/exile/skills/skills.component';
 import { ExileBuildingForkComponent } from './com/exile/exile-building-fork/exile-building-fork.component';
 import { EventsComponent } from './com/events/events.component';
-import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [

@@ -1,5 +1,18 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { FormBuilder, FormGroup } from '@angular/forms';
+
+export interface EventData {
+  created: Date;
+  id: number;
+  eventName: string; 
+  eventCountdown: string;
+  eventDays: number;
+  eventHours: number;
+  eventMinutes: number;
+  eventSeconds: number;
+  eventDate: Date;
+  eventAlarm: boolean;
+}
 
 @Component({
   selector: 'app-events',
@@ -8,13 +21,13 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 })
 export class EventsComponent implements OnInit {
   formGroup: FormGroup;
-  eventname: string = "eventname";
-  eventcountdown: string = "12.12.12.12";
-
+  isToggled: boolean;
+  days=0
   constructor(formBuilder: FormBuilder) { 
     this.formGroup = formBuilder.group({
-      fixedDateSlide: '',
-      acceptTerms: ['', Validators.requiredTrue]
+      fixedDateSlide: 'true',
+      pickDateButton: '',
+      
     });
   }
 

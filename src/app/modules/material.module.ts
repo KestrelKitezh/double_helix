@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 
+import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
 import { MatDialogModule } from '@angular/material/dialog';
@@ -15,15 +16,17 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { DrawerRailModule } from 'angular-material-rail-drawer';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatExpansionModule } from '@angular/material/expansion';
-import { MatListModule} from '@angular/material/list';
+import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
 import { MatTableModule } from '@angular/material/table';
 import { MatTreeModule } from '@angular/material/tree';
-
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 @NgModule({
   exports: [
+    FormsModule,
     MatFormFieldModule,
+    MatProgressSpinnerModule,
     MatDialogModule,
     MatButtonToggleModule,
     MatCardModule,
@@ -42,6 +45,7 @@ import { MatTreeModule } from '@angular/material/tree';
     MatListModule,
     MatButtonModule,
     MatTreeModule,
+    MatFormFieldModule,
   ]
 })
 export class MaterialModule { }
