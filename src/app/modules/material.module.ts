@@ -21,11 +21,15 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatTableModule } from '@angular/material/table';
 import { MatTreeModule } from '@angular/material/tree';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import {MatDatepickerModule} from '@angular/material/datepicker';
+import { MatMomentDateModule } from "@angular/material-moment-adapter";
 
 @NgModule({
   exports: [
     FormsModule,
     MatFormFieldModule,
+    MatDatepickerModule,
+    MatMomentDateModule,
     MatProgressSpinnerModule,
     MatDialogModule,
     MatButtonToggleModule,
