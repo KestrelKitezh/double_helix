@@ -9,7 +9,7 @@ import { EventsService } from '../../services/events.service';
 export interface EventData {
   created: Date;
   id: number;
-  eventName: string; 
+  eventName: string;
   eventCountdown: string;
   eventDays: number;
   eventHours: number;
@@ -35,7 +35,7 @@ export class EventsComponent implements OnInit {
   constructor(
     formBuilder: FormBuilder,
     private eventsService: EventsService,
-    ) {
+  ) {
     let now = moment();
     console.log('debug crap', now.format());
     console.log(now.add(7, 'days').format());
@@ -47,7 +47,11 @@ export class EventsComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    console.log(this.isPickDateToggled);
+    console.log("[Debug]: Toggle: " + this.isPickDateToggled);
+    console.log("[Debug]: Event running: " + this.isEventRunning);
+    // this actually works
+    if(this.isPickDateToggled == undefined) {this.togglePickDate(true)}
+    console.log("[Debug]: Toggle: " + this.isPickDateToggled);
     this.isEventRunning = this.eventsService.isEventRunning;
     this.isPickDateToggled = this.eventsService.isPickDateToggled;
   }
@@ -60,5 +64,5 @@ export class EventsComponent implements OnInit {
     this.eventsService.setEventRunning(checked);
   }
 
-  onFormSubmit() {}
+  onFormSubmit() { }
 }

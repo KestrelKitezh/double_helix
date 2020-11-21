@@ -1,0 +1,28 @@
+<mat-card class="grid-container" style="margin: 2px;">
+    <!-- The header, eventname -->
+    <h4 class="grid-header">Eventname</h4>
+    <!-- Days -->
+    <mat-progress-spinner class="grid-main-day" mode="determinate" color="warn" value="25" diameter="175"
+        strokeWidth="5"></mat-progress-spinner>
+    <h2 class="grid-footer-day">5 days</h2>
+
+    <!-- Hours -->
+    <mat-progress-spinner class="grid-main-hour" mode="determinate" color="primary" value="50" diameter="175"
+        strokeWidth="5"></mat-progress-spinner>
+    <h2 class="grid-footer-hour">5 hour</h2>
+
+    <!-- Mins -->
+    <mat-progress-spinner class="grid-main-min" mode="determinate" color="warn" value="75" diameter="175"
+        strokeWidth="5"></mat-progress-spinner>
+    <h2 class="grid-footer-min">5 min</h2>
+
+    <!-- Secs -->
+    <mat-progress-spinner class="grid-main-sec" mode="determinate" color="accent" value="100" diameter="175"
+        strokeWidth="5"></mat-progress-spinner>
+    <h2 class="grid-footer-sec">5 sec</h2>
+
+    <!-- Event options -->
+    <button mat-icon-button color="primary" class="grid-footer-end">
+        <mat-icon>settings</mat-icon>
+    </button>
+</mat-card>

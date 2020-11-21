@@ -1,0 +1,42 @@
+<mat-card class="grid-container-options" style="margin: 2px;">
+    <!-- Choose which way to calc date. Fixed date or x dhms -->
+    <mat-label>Fixed date:</mat-label>
+    <mat-slide-toggle 
+        class="grid-main1" 
+        color="primary"
+        [checked]="isChecked"
+        (change)="togglePickDate($event.checked)">
+    </mat-slide-toggle>
+    <mat-checkbox [(ngModel)]="isChecked">test</mat-checkbox>
+
+    <!-- shown if picked date is chosen -->
+    <mat-label>Pick date:</mat-label>
+
+    <mat-form-field 
+        *ngIf="!isPickDateToggled"
+        appearance="fill">
+        <mat-label>Date</mat-label>
+        <input matInput [matDatepicker]="picker">
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+    <mat-form-field *ngIf="!isPickDateToggled" appearance="fill">
+        <mat-label>Time</mat-label>
+        <input matInput type="datetime-local">
+        <button mat-button matSuffix mat-icon-button>
+            <mat-icon>close</mat-icon>
+        </button>
+    </mat-form-field>
+
+    <!-- shown if picked date is not chosen -->
+    <mat-label></mat-label>
+
+    <!-- Manual countdown, days -->
+    <mat-form-field form-field>
+        <mat-label>days</mat-label>
+        <input matInput type="number">
+        <button mat-button matSuffix mat-icon-button>
+            <mat-icon>close</mat-icon>
+        </button>
+    </mat-form-field>
+</mat-card>

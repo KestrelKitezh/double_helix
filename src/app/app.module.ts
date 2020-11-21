@@ -17,6 +17,8 @@ import { HomeComponent } from './com/home/home.component';
 import { SkillsComponent } from './com/exile/skills/skills.component';
 import { ExileBuildingForkComponent } from './com/exile/exile-building-fork/exile-building-fork.component';
 import { EventsComponent } from './com/events/events.component';
+import { DisplayComponent } from './com/events/display/display.component';
+import { OptionsComponent } from './com/events/options/options.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +30,8 @@ import { EventsComponent } from './com/events/events.component';
     SkillsComponent,
     ExileBuildingForkComponent,
     EventsComponent,
+    DisplayComponent,
+    OptionsComponent,
   ],
   imports: [
     BrowserModule,

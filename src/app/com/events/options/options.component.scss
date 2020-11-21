@@ -1,0 +1,10 @@
+.grid-container-options {
+    display: grid;
+    grid-template-areas: 
+        'header header header header header header header'
+        'main1 main2 main3 main4 main5 main6 main7'
+        'footer1 footer2 footer3 footer4 footer5 footer6 footer7';
+    grid-gap: 10px;
+    // background-color: lightcoral;
+    justify-content: center;
+}
